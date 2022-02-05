@@ -1,0 +1,2 @@
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\Fakes\dnb64\o\f.csprojAssemblyReference.cache
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\Fakes\dnb64\o\f.csproj.CoreCompileInputs.cache

@@ -1,0 +1,35 @@
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\memeium.exe.config
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\memeium.exe
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\memeium.pdb
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\memeium.xml
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.vbprojAssemblyReference.cache
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.Form1.resources
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.Resources.resources
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.vbproj.GenerateResource.cache
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.vbproj.CoreCompileInputs.cache
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.exe
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.xml
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.pdb
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.Form2.resources
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\DotNetBrowser.Chromium64.dll
+C:\Users\masle\source\repos\memeium\memeium\obj\Debug\memeium.vbproj.CopyComplete
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\DotNetBrowser.dll
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\DotNetBrowser.Chromium32.dll
+C:\Users\masle\source\repos\memeium\memeium\bin\Debug\DotNetBrowser.xml
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\memeium.exe.config
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\memeium.exe
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\memeium.pdb
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\memeium.xml
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\DotNetBrowser.Chromium64.dll
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\DotNetBrowser.dll
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\DotNetBrowser.Chromium32.dll
+C:\Users\Steven M\Desktop\Browser\memeium\bin\Debug\DotNetBrowser.xml
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.vbprojAssemblyReference.cache
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.Form1.resources
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.Form2.resources
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.Resources.resources
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.vbproj.GenerateResource.cache
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.vbproj.CopyComplete
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.exe
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.xml
+C:\Users\Steven M\Desktop\Browser\memeium\obj\Debug\memeium.pdb
